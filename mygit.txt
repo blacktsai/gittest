@@ -4,3 +4,5 @@ my git test
 my git test 2
 
 you need git 
+
+中文測試
